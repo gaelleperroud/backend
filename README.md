@@ -26,6 +26,6 @@ Use the README included to run it.
 
 ## Usage ##
 
-From within the backend folder, run the server with `node server` or `nodemon server`. The server should run on localhost with default 
+From within the backend folder, run the server with `node server` or `nodemon server`. The server should run on localhost with 
 
-port 3000. You should also get the response from database MongoDB
+default port 3000. You should also get the response from database MongoDB
